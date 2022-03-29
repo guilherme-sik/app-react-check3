@@ -1,0 +1,133 @@
+{
+  "Header": {
+    "title": " Guilherme santos",
+    "paragraph": "Aspirante a Developer_FrontEnd"},
+  "Sobre": {
+    "paragraph": "Facinado por natureza, tenho 20 anos e moro no interior da bahia que fica na chapada diamantina, mais especificamente em Igatu conhecida como Machu-Pichu bahiana. Atualmente focando energia na construção de páginas web utilizando um pouquinho das melhores tecnologias do mercado!",
+    "Why": [
+      "Escrita acadêmica",
+      "Elaboração de projetos",
+      "Advocacia",
+      "Artesanatos "
+    ],
+    "Why2": [
+      "Capoeira",
+      "Escalada",
+      "Montanhismo",
+      "Acampamento"
+    ]
+  },
+  "portfolio": [
+    {
+      "title": "Projeto em java",
+      "largeImage": "01-large.jpg",
+      "smallImage": "01-small.jpg"
+    },
+    {
+      "title": "Projeto ",
+      "largeImage": "",
+      "smallImage": ""
+    },
+    {
+      "title": "Projeto",
+      "largeImage": "",
+      "smallImage": ""
+    },
+    {
+      "title": "Projeto ",
+      "largeImage": "",
+      "smallImage": ""
+    },
+    {
+      "title": "Projeto ",
+      "largeImage": "",
+      "smallImage": ""
+    },
+    {
+      "title": "Projeto ",
+      "largeImage": "",
+      "smallImage": ""
+    },
+    {
+      "title": "Projeto ",
+      "largeImage": "",
+      "smallImage": ""
+    },
+    {
+      "title": "Projeto ",
+      "largeImage": "",
+      "smallImage": ""
+    },
+    {
+      "title": "Projeto ",
+      "largeImage": "",
+      "smallImage": ""
+    }
+  ],
+  "Servicos": [
+    {
+      "icon": "fa fa-wordpress",
+      "name": "",
+      "text": ""
+    },
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "name": "",
+      "text": ""
+    },
+    {
+      "icon": "fa fa-cloud-download",
+      "name": "",
+      "text": ""
+    },
+    {
+      "icon": "fa fa-language",
+      "name": "",
+      "text": ""
+    },
+    {
+      "icon": "fa fa-plane",
+      "name": "",
+      "text": ""
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "",
+      "text": ""
+    }
+  ],
+  
+  "Contato": {
+    "endereco": "Igatu-Chapada-Diamantina-BA",
+    "telefone": "+55 (75) 9298-8715",
+    "email": " guilhermeigatu99@gmail.com",
+
+    "facebook": "https://www.facebook.com/guilhermeSik",
+    "instagram": "https://www.instagram.com/gui_techinfo/",
+    "github": "https://github.com/guilherme-sik",
+    "linkedin": "https://www.linkedin.com/in/guilherme-santos-38b562206/"
+    
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Comunicação",
+      "text": "A comunicação émuito poderosa dentro de uma squad de desenvolvimento. Tudo dito deve ser levado em consideração!"
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "javascript",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Trabalho em equipe",
+      "text": "O trabalho em grupo é flexivo e garante a conclusão efetiva das demandas em curto prazo. Juntamente com as melhores skills de cada integrante!"
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    }
+  ]
+}
