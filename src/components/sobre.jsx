@@ -5,7 +5,7 @@ export const About = (props) => {
         <div className="row">
           <div className="col-xs-12 col-md-6">
             {" "}
-            <img src="./img/about.jpg" className="img-responsive" alt="imagem de uma paisagem montanhosa" /> 
+            <img src="./img/intro-bg.jpg" className="img-responsive" alt="imagem de uma paisagem montanhosa" /> 
             {" "}
           </div>
           <div className="col-xs-12 col-md-6">
@@ -16,7 +16,7 @@ export const About = (props) => {
 
               <p>{props.data ? props.data.paragraph : "loading..."}</p>
 
-              <h3>Porque me escolher</h3>
+              <h3>👨🏾‍💻Soft Skills👇🏾</h3>
               <div className="list-style">
                 <div className="col-lg-6 col-sm-6 col-xs-12">
                   <ul>
