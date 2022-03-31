@@ -5,8 +5,7 @@ export const Services = (props) => {
         <div className='section-title'>
           <h2>Outros serviços</h2>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit duis sed
-            dapibus leonec.
+            Além da disposição para trabalhar em desenvolvimento de páginas web, destaco:
           </p>
         </div>
         <div className='row'>{props.data ? props.data.map((d, i) => (

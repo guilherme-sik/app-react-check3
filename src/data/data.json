@@ -1,7 +1,8 @@
 {
   "Header": {
     "title": " Guilherme santos",
-    "paragraph": "Aspirante a Developer_FrontEnd"},
+    "paragraph": "Aspirante a Developer_FrontEnd"
+  },
   "Sobre": {
     "paragraph": "Facinado por natureza, tenho 20 anos e moro no interior da bahia que fica na chapada diamantina, mais especificamente em Igatu conhecida como Machu-Pichu bahiana. Atualmente focando energia na construção de páginas web utilizando um pouquinho das melhores tecnologias do mercado!",
     "Why": [
@@ -17,7 +18,7 @@
       "Agilidade"
     ]
   },
-  "portfolio": [
+  "Portfolio": [
     {
       "title": "Projeto em java",
       "largeImage": "01-large.jpg",
@@ -26,74 +27,74 @@
     {
       "title": "Projeto ",
       "largeImage": "02-large.jpg",
-      "smallImage": ""
+      "smallImage": "01-small.jpg"
     },
     {
       "title": "Projeto",
       "largeImage": "03-large.jpg",
-      "smallImage": ""
+      "smallImage": "01-small.jpg"
     },
     {
       "title": "Projeto ",
       "largeImage": "04-large.jpg",
-      "smallImage": ""
+      "smallImage": "01-small.jpg"
     },
     {
       "title": "Projeto ",
-      "largeImage": "",
-      "smallImage": ""
+      "largeImage": "01-large.jpg",
+      "smallImage": "01-small.jpg"
     },
     {
       "title": "Projeto ",
-      "largeImage": "",
-      "smallImage": ""
+      "largeImage": "01-large.jpg",
+      "smallImage": "01-small.jpg"
     },
     {
       "title": "Projeto ",
-      "largeImage": "",
-      "smallImage": ""
+      "largeImage": "01-large.jpg",
+      "smallImage": "01-small.jpg"
     },
     {
       "title": "Projeto ",
-      "largeImage": "",
-      "smallImage": ""
+      "largeImage": "01-large.jpg",
+      "smallImage": "01-small.jpg"
     },
     {
       "title": "Projeto ",
-      "largeImage": "",
-      "smallImage": ""
+      "largeImage": "01-large.jpg",
+      "smallImage": "01-small.jpg"
     }
   ],
   "Servicos": [
     {
-      "icon": "fa fa-wordpress",
-      "name": "",
-      "text": ""
+      "icon": "fa fa-github",
+      "name": "Gerencia de código",
+      "text": "Essencial para colaborar e aprender"
     },
     {
-      "icon": "fa fa-cart-arrow-down",
-      "name": "",
-      "text": ""
+      "icon": "fa fa-windows",
+      "name": "Manutenção de SO",
+      "text": "É fundamental um bom entendimento em SO."
     },
     {
-      "icon": "fa fa-cloud-download",
-      "name": "",
-      "text": ""
+      "icon": "fa fa-terminal",
+      "name": "Usar um Prompt",
+      "text": "Se não usa, provavelmente não programa!"
     },
     {
-      "icon": "fa fa-language",
-      "name": "",
-      "text": ""
+      "icon": "fa fa-gears",
+      "name": "Configurar",
+      "text": "Um ambiente bem configurado garante um bom desenpenho"
     },
     {
-      "icon": "fa fa-plane",
-      "name": "",
-      "text": ""
+      "icon": "fa fa-cup",
+      "name": "Fazer café",
+      "text": "Bem! Tenha sempre um café ao lado!!!"
     },
     {
-      "icon": "fa fa-pie-chart",
-      "name": "",
-      "text": ""
+      "icon": "fa fa-key",
+      "name": "A chave",
+      "text": "A chave é a dedicação!"
     }
   ],
   
@@ -112,22 +113,22 @@
     {
       "icon": "fa fa-comments-o",
       "title": "Comunicação",
-      "text": "A comunicação émuito poderosa dentro de uma squad de desenvolvimento. Tudo dito deve ser levado em consideração!"
+      "text": "A comunicação é muito poderosa dentro de uma squad de desenvolvimento. Tudo dito deve ser levado em consideração!"
     },
     {
       "icon": "fa fa-bullhorn",
-      "title": "javascript",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Adaptabilidade",
+      "text": "Não é o mais forte que sobrevive, nem o mais inteligente, mas o que melhor se adapta às mudanças."
     },
     {
       "icon": "fa fa-group",
       "title": "Trabalho em equipe",
-      "text": "O trabalho em grupo é flexivo e garante a conclusão efetiva das demandas em curto prazo. Juntamente com as melhores skills de cada integrante!"
+      "text": "Se quiser ir rápido, vá sozinho. Se quiser ir longe, vá em grupo"
     },
     {
       "icon": "fa fa-magic",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Abstração",
+      "text": "A abstração tem o poder de lhe conseguir o que bem tem pensado."
     }
   ]
 }
