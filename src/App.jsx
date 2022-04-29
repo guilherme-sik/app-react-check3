@@ -36,9 +36,9 @@ const App = () => {
       <Features     data={landingPageData.Features}       />
       <About        data={landingPageData.Sobre}          />
       <Services     data={landingPageData.Servicos}       />
-      <Portfolio    data={landingPageData.portfólio}      />
+      <Portfolio    data={landingPageData.portfolio}      />
       <Contact      data={landingPageData.Contato}        />
-
+cd 
     </div>
   );
 };
